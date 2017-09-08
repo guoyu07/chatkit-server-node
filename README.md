@@ -1,6 +1,6 @@
 # chatkit-server-node
 
-The Node.js server SDK for Pusher ChatKit.
+The Node.js server SDK for Pusher Chatkit.
 
 ## Installation
 
